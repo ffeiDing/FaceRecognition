@@ -1,0 +1,1 @@
+python3 script/dataset/transform.py --train_ori_dataset_path /home/dff/f/data/faces_webface_112x112_raw_image --train_mask_dataset_path /ssd_datasets/dff/GuGuGirls/train --test_dataset_path /content/drive/My\ Drive/MTCNN_align_600id
